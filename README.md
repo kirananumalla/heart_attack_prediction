@@ -1,6 +1,6 @@
 # Heart Attack Binary Classification Take-Home Assignment
 
-You have been given the task of building a binary-classifier that predicts whether a person is to have a heart attack or not given a dataset of 303 patients and 13 variables (14 columns in total including the target variable) – please find the column definitions below:
+The objective of the task is to build a binary-classifier that predicts whether a person is to have a heart attack or not given a dataset of 303 patients and 13 variables (14 columns in total including the target variable) – The column definitions below are below:
 
 ### Column Definitions:
 
