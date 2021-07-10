@@ -1,6 +1,6 @@
 # Heart Attack Binary Classification
 
-The objective of the task is to build a binary-classifier that predicts whether a person is to have a heart attack or not given a dataset of 303 patients and 13 variables (14 columns in total including the target variable) – The column definitions below are below:
+The objective of the task is to build a binary-classifier that predicts whether a person is to have a heart attack or not given a dataset of 303 patients and 13 variables (14 columns in total including the target variable) – The column definitions are below:
 
 ### Column Definitions:
 
